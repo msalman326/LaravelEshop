@@ -1,0 +1,106 @@
+body {
+     
+      overflow-x: hidden; /* Hide horizontal scrollbar */
+     }
+.random{
+    height: 460px;
+    
+}
+.catecard{
+    /* max-height: 370px; */
+
+    /* overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; */
+}
+.cateimg{
+    height: 220px; 
+    width: 250px"
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+.vcate{
+    color: rgb(223, 183, 183);
+}
+/* .checkoutbtn{
+    position: relative;
+    
+    bottom: 12px;
+}
+.price{
+    position: relative;
+bottom: 1px;
+} */
+.checkout-form label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.checkout-form input{
+    font-size: 14px;
+    font-weight: 400;
+    padding: 5px;
+}
+.order-details label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.order-details div{
+    font-size: 14px;
+    padding: 4px; 
+}
+.ovtable{
+    margin-top: 39px;
+}
+.cart-count{
+    position: absolute;
+    right: 95px;
+    top: 3px;
+    border-radius: 50%;
+    
+}
+.wish-count{
+    position: absolute;
+    right: 1px;
+    top: 3px;
+    border-radius: 50%;
+
+
+}
+.rating-css div {
+    color: #ffe400;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0;
+  }
+  .rating-css input {
+    display: none;
+  }
+  .rating-css input + label {
+    font-size: 60px;
+    text-shadow: 1px 1px 0 #8f8420;
+    cursor: pointer;
+  }
+  .rating-css input:checked + label ~ label {
+    color: #b4afaf;
+  }
+  .rating-css label:active {
+    transform: scale(0.8);
+    transition: 0.3s ease;
+  }
+  .golden{
+    color: #ffa600
+  }
+  .WAlogo{
+    bottom: 30px;
+    /* left: 300x; */
+    position: fixed;
+  }

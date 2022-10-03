@@ -1,0 +1,35 @@
+.cate-image{
+    width: 100px;
+}
+td.some {
+    max-width: 270px;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    
+    
+  }
+  .prod-image{
+    width: 50px;
+    height: 120px;
+}
+.myown .card-header{
+  margin-top: 10px;
+  
+}
+.myown .card{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+.myown hr{
+  margin: 0;
+  padding: 0;
+
+}
+.myown h1{
+  color: aliceblue;
+}
+
+  
